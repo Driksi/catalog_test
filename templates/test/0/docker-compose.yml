@@ -1,5 +1,3 @@
-version: "1"
-
 services:
     client:
         image: nginx
